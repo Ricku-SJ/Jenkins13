@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Open]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Create]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Modify]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Close]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-09-08T19:11:05 IST" name="Suite" finished-at="2023-09-08T19:11:55 IST" duration-ms="49522">
+    <groups>
+    </groups>
+    <test started-at="2023-09-08T19:11:05 IST" name="Test" finished-at="2023-09-08T19:11:55 IST" duration-ms="49522">
+      <class name="com.Extent.Repo.ExtentTests">
+        <test-method is-config="true" signature="open()[pri:0, instance:com.Extent.Repo.ExtentTests@505fc5a4]" started-at="2023-09-08T19:11:05 IST" name="open" finished-at="2023-09-08T19:11:51 IST" duration-ms="45773" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Open]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.Extent.Repo.ExtentTests@505fc5a4]" started-at="2023-09-08T19:11:51 IST" name="login" finished-at="2023-09-08T19:11:53 IST" duration-ms="2148" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="create()[pri:0, instance:com.Extent.Repo.ExtentTests@505fc5a4]" started-at="2023-09-08T19:11:53 IST" name="create" finished-at="2023-09-08T19:11:53 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Create]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- create -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.Extent.Repo.ExtentTests@505fc5a4]" started-at="2023-09-08T19:11:53 IST" name="logout" finished-at="2023-09-08T19:11:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.Extent.Repo.ExtentTests@505fc5a4]" started-at="2023-09-08T19:11:53 IST" name="login" finished-at="2023-09-08T19:11:54 IST" duration-ms="1276" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="modify()[pri:0, instance:com.Extent.Repo.ExtentTests@505fc5a4]" started-at="2023-09-08T19:11:54 IST" name="modify" finished-at="2023-09-08T19:11:54 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Modify]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- modify -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.Extent.Repo.ExtentTests@505fc5a4]" started-at="2023-09-08T19:11:54 IST" name="logout" finished-at="2023-09-08T19:11:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.Extent.Repo.ExtentTests@505fc5a4]" started-at="2023-09-08T19:11:54 IST" name="close" finished-at="2023-09-08T19:11:55 IST" duration-ms="274" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Close]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.Extent.Repo.ExtentTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
